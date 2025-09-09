@@ -34,7 +34,7 @@ local Corner = Instance.new("UICorner", Center)
 Corner.CornerRadius = UDim.new(0, 8)
 
 local ServerLink = "discord.gg/redz-hub"
-local WarnMessage = "redz Hub is down for Now\njoin our discord for more information!"
+local WarnMessage = ""
 
 local Warn = Instance.new("TextLabel", Background)
 Warn.Text = WarnMessage
